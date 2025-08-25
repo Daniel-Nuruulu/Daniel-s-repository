@@ -24,7 +24,17 @@ class Danchik:
     def get_info(self,name):
         return name.names
 
-a = Danchik('Daniel')
+a = Danchik('njkknjn')
 print(a.get_info)
 
+class Danchik:
+    def __init__(self,name):
+        self.name = name
 
+    def get_info(self,name):
+        return name.names
+
+a = Danchik('ghvjbjk')
+print(a.get_info)
+
+gti
